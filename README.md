@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge">
-  <img alt="Languages" src="https://img.shields.io/badge/made%20with-python-blue.svg?longCache=true&style=for-the-badge" alt="made with python">
+  <img alt="Languages" src="https://img.shields.io/badge/Languages-Python-blue.svg?longCache=true&style=for-the-badge">
 </p>
 
 ## Find Me :D
