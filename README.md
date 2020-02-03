@@ -19,79 +19,79 @@ All problems are solved in Javascript and python.
 ## Python Submissions:
 
   - :green_book:
-  [Kangaroo](https://github.com/pandusudo/CODEWARS)
+  [Kangaroo](https://github.com/pandusudo/HACKERRANK/blob/master/Python/Kangaroo.py)
   
   - :green_book:
-  [Capitilize!](https://github.com/pandusudo/CODEWARS)
+  [Capitilize!](https://github.com/pandusudo/HACKERRANK/blob/master/Python/Capitalize.py)
 
   - :green_book:
-  [What's Your Name?](https://github.com/pandusudo/CODEWARS)
+  [What's Your Name?](https://github.com/pandusudo/HACKERRANK/blob/master/Python/WhatsYourName.py)
   
   - :green_book:
-  [Apple and Orange](https://github.com/pandusudo/CODEWARS)
+  [Apple and Orange](https://github.com/pandusudo/HACKERRANK/blob/master/Python/AppleAndOrange.py)
   
   - :green_book:
-  [Grading Students](https://github.com/pandusudo/CODEWARS)
+  [Grading Students](https://github.com/pandusudo/HACKERRANK/blob/master/Python/GradingStudents.py)
 
   - :green_book:
-  [List Comprehensions](https://github.com/pandusudo/CODEWARS)
+  [List Comprehensions](https://github.com/pandusudo/HACKERRANK/blob/master/Python/ListComprehensions.py)
   
   - :green_book:
-  [Find The Runner-up Score](https://github.com/pandusudo/CODEWARS)
+  [Find The Runner-up Score](https://github.com/pandusudo/HACKERRANK/blob/master/Python/FindtheRunnerUp.py)
   
   - :green_book:
-  [Print Function](https://github.com/pandusudo/CODEWARS)
+  [Print Function](https://github.com/pandusudo/HACKERRANK/blob/master/Python/PrintFunc.py)
   
   - :green_book:
-  [Write a Function](https://github.com/pandusudo/CODEWARS)
+  [Write a Function](https://github.com/pandusudo/HACKERRANK/blob/master/Python/WriteFunc.py)
   
   - :green_book:
-  [Loops](https://github.com/pandusudo/CODEWARS)
+  [Loops](https://github.com/pandusudo/HACKERRANK/blob/master/Python/Loop.py)
   
   - :green_book:
-  [Python: Division](https://github.com/pandusudo/CODEWARS)
+  [Python: Division](https://github.com/pandusudo/HACKERRANK/blob/master/Python/Div.py)
   
   - :green_book:
-  [Arithmetic Operators](https://github.com/pandusudo/CODEWARS)
+  [Arithmetic Operators](https://github.com/pandusudo/HACKERRANK/blob/master/Python/ArithmeticOp.py)
   
   - :green_book:
-  [Python If-Else](https://github.com/pandusudo/CODEWARS)
+  [Python If-Else](https://github.com/pandusudo/HACKERRANK/blob/master/Python/PythonIfElse.py)
   
   - :green_book:
-  [Say "Hello World!" With Python](https://github.com/pandusudo/CODEWARS)
+  [Say "Hello World!" With Python](https://github.com/pandusudo/HACKERRANK/blob/master/Python/HelloWorld.py)
 
 ## Javascript Submissions:
 
   - :green_book:
-  [Time Conversion](https://github.com/pandusudo/CODEWARS)
+  [Time Conversion](https://github.com/pandusudo/HACKERRANK/blob/master/Javascript/TimeConversion.js)
   
   - :green_book:
-  [Birthday Cake Candles!](https://github.com/pandusudo/CODEWARS)
+  [Birthday Cake Candles!](https://github.com/pandusudo/HACKERRANK/blob/master/Javascript/BirthdayCake.js)
 
   - :green_book:
-  [Mini-Max Sum](https://github.com/pandusudo/CODEWARS)
+  [Mini-Max Sum](https://github.com/pandusudo/HACKERRANK/blob/master/Javascript/MiniMax.js)
 
   - :green_book:
-  [Stair Case](https://github.com/pandusudo/CODEWARS)
+  [Stair Case](https://github.com/pandusudo/HACKERRANK/blob/master/Javascript/Staircase.js)
 
   - :green_book:
-  [Plus Minus](https://github.com/pandusudo/CODEWARS)
+  [Plus Minus](https://github.com/pandusudo/HACKERRANK/blob/master/Javascript/PlusMin.js)
 
   - :green_book:
-  [Diagonal Difference](https://github.com/pandusudo/CODEWARS)
+  [Diagonal Difference](https://github.com/pandusudo/HACKERRANK/blob/master/Javascript/DiagonalDiff.js)
 
   - :green_book:
-  [A Very Big Sum](https://github.com/pandusudo/CODEWARS)
+  [A Very Big Sum](https://github.com/pandusudo/HACKERRANK/blob/master/Javascript/AVeryBigSum.js)
 
   - :green_book:
-  [Solve Me First!](https://github.com/pandusudo/CODEWARS)
+  [Solve Me First!](https://github.com/pandusudo/HACKERRANK/blob/master/Javascript/SolveMeFirst.js)
 
   - :green_book:
-  [Arrays: Left Rotation](https://github.com/pandusudo/CODEWARS)
+  [Arrays: Left Rotation](https://github.com/pandusudo/HACKERRANK/blob/master/Javascript/ArrLeftRotation.js)
 
   - :green_book:
-  [Simple Array Sum](https://github.com/pandusudo/CODEWARS)
+  [Simple Array Sum](https://github.com/pandusudo/HACKERRANK/blob/master/Javascript/SimpleArraySum.js)
 
   - :green_book:
-  [Compare the Triplets](https://github.com/pandusudo/CODEWARS)
+  [Compare the Triplets](https://github.com/pandusudo/HACKERRANK/blob/master/Javascript/CompareTriplets.js)
 
