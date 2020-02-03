@@ -19,9 +19,7 @@ All problems are solved in Javascript and python.
 ## Python Submissions:
 
   - :green_book:
-  <div class="text-green mb-2 ml-4">
-    Easy
-    </div>
+  <div class="text-green mb-2 ml-4">Easy</div>
   [Kangaroo](https://github.com/pandusudo/CODEWARS)
   
   - :green_book:
