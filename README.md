@@ -59,3 +59,39 @@ All problems are solved in Javascript and python.
   
   - :green_book:
   [Say "Hello World!" With Python](https://github.com/pandusudo/CODEWARS)
+
+## Javascript Submissions:
+
+  - :green_book:
+  [Time Conversion](https://github.com/pandusudo/CODEWARS)
+  
+  - :green_book:
+  [Birthday Cake Candles!](https://github.com/pandusudo/CODEWARS)
+
+  - :green_book:
+  [Mini-Max Sum](https://github.com/pandusudo/CODEWARS)
+
+  - :green_book:
+  [Stair Case](https://github.com/pandusudo/CODEWARS)
+
+  - :green_book:
+  [Plus Minus](https://github.com/pandusudo/CODEWARS)
+
+  - :green_book:
+  [Diagonal Difference](https://github.com/pandusudo/CODEWARS)
+
+  - :green_book:
+  [A Very Big Sum](https://github.com/pandusudo/CODEWARS)
+
+  - :green_book:
+  [Solve Me First!](https://github.com/pandusudo/CODEWARS)
+
+  - :green_book:
+  [Arrays: Left Rotation](https://github.com/pandusudo/CODEWARS)
+
+  - :green_book:
+  [Simple Array Sum](https://github.com/pandusudo/CODEWARS)
+
+  - :green_book:
+  [Compare the Triplets](https://github.com/pandusudo/CODEWARS)
+
