@@ -16,7 +16,7 @@ This repository contains my solutions for the challenges hosted @ HackerRank.com
 All problems are solved in Javascript and python.
 </p>
 
-## Python Submissions:
+## [Python Submissions :](https://github.com/pandusudo/HACKERRANK/tree/master/Python)
 
   - :green_book:
   [Kangaroo](https://github.com/pandusudo/HACKERRANK/blob/master/Python/Kangaroo.py)
@@ -60,7 +60,7 @@ All problems are solved in Javascript and python.
   - :green_book:
   [Say "Hello World!" With Python](https://github.com/pandusudo/HACKERRANK/blob/master/Python/HelloWorld.py)
 
-## Javascript Submissions:
+## [Javascript Submissions :](https://github.com/pandusudo/HACKERRANK/tree/master/Javascript)
 
   - :green_book:
   [Time Conversion](https://github.com/pandusudo/HACKERRANK/blob/master/Javascript/TimeConversion.js)
