@@ -1,3 +1,5 @@
+# Given integer N. Print all square of number until N
+
 if __name__ == '__main__':
     n = int(input())
 
