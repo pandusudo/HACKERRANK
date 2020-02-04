@@ -1,3 +1,5 @@
+# Given integer N. Write a loop print 123 ... N
+
 if __name__ == '__main__':
     n = int(input())
 
