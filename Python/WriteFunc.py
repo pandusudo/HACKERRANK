@@ -1,3 +1,5 @@
+# Detect if the year is leap or not
+
 def is_leap(year):
     leap = False
     if(year % 4 == 0):
